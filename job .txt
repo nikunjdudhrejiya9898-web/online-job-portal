@@ -1,0 +1,6 @@
+admin part 
+	localhost/job/admin_login.php
+		admin
+		12345
+ index page
+	localhost/job/index.php
